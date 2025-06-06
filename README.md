@@ -37,7 +37,5 @@ This project creates a simple web server using the ESP32 that allows you to cont
 - Adjust `ledPin` if you want to use a different GPIO pin.
 - This example can be expanded to control multiple devices or add more web features.
 
-## License
 
-This project is open for personal and educational use. Feel free to modify and share!
 
